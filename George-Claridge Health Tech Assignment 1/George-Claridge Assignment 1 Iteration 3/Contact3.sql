@@ -2,10 +2,10 @@
 -- User George Claridge
 -- Version 3
 
-DROP TABLE Contact
-DROP TABLE Advice
-DROP TABLE Contacter
-DROP TABLE Patient
+--DROP TABLE Contact
+--DROP TABLE Advice
+--DROP TABLE Contacter
+--DROP TABLE Patient
 --DROP TABLE Carer
 --DROP TABLE Worker
 
